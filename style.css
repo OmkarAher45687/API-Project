@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+}
+body #dogbtn{
+    padding: 10px;
+    background-color: aqua;
+    font-weight: bold;
+    border-radius: 10px;
+}
+#dogbtn :hover{
+    
+    align-content: center;
+  
+}
+#dogImage{
+    padding: 70px;
+}
